@@ -1,2 +1,2 @@
 # react-webpack
-react + webpack default
+react + webpack4 기본세팅
